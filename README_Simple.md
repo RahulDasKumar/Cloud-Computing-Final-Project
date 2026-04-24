@@ -11,9 +11,6 @@ Project Title: Urban Parking Analytics & Real-Time Occupancy Prediction
 2) Lakshmi Vaishnav Reddy Dandu
    Student id:801411660
    Email id :ldandu1@charlotte.edu 
-3) Rahul Kumar Das 
-   Student id:801247939
-   Email id :rdas6@charlotte.edu 
  4) Vamsi Aakash Samudrala 
    Student id:801425922 
    Email id :vsamudr2@charlotte.edu 
